@@ -1,0 +1,9 @@
+main: davigamer161.killmobscount.KillMobsCount
+version: 1.0.1
+name: KillMobsCount
+
+commands:
+  kmc:
+    description: El comando de principal de KillMobsCount
+  kills:
+    description: El comando de las kills de KillMobsCount
