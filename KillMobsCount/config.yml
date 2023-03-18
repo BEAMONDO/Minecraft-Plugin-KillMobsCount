@@ -18,5 +18,20 @@
 ########################################################################################
 
 Config:
+
+    #Envia un mensaje al jugador cuando entra al servidor
     mensaje-bienvenida: true
-    mensaje-bienvenida-texto: "&6&lBienvenido al &4&lServidor &a&l %player%"
+
+    #Ir al spawn cuando un jugador entra al servidor
+    tp-spawn-al-entrar: true
+
+    #Envia un mensaje al jugador cuando duerme en la cama
+    mensaje-dormir: false
+
+    #Envia un mensaje cuando despiertas en la cama
+    mensaje-despertar: false
+    #Usa un comando cuando despiertas en la cama
+    comando-despertar: false
+    comando-despertar-usar: kills
+    
+    

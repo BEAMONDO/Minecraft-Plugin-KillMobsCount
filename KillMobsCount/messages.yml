@@ -1,0 +1,10 @@
+Messages:
+    #Se pueden añadir todas las líneas de texto que quieras
+    mensaje-bienvenida-texto: 
+    - "&m                                         "
+    - "&6&lBienvenido al &4&lServidor &a&l%player%"
+    - "&6&lEl servidor esta usando el plugin KillMobsCount"
+    - "&m                                         "
+    #Por ahora solo existe la variable %player%
+    mensaje-dormir-texto: "&6Buenas noches &a%player%"
+    mensaje-despertar-texto: "&6Buenos dias &a%player%"
